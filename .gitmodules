@@ -1,0 +1,9 @@
+[submodule "cmx-capstone-ui"]
+	path = cmx-capstone-ui
+	url = https://github.com/morriswa/cmx-capstone-ui.git
+[submodule "cmx-capstone-ml"]
+	path = cmx-capstone-ml
+	url = https://github.com/morriswa/cmx-capstone-ml.git
+[submodule "cmx-capstone-rest"]
+	path = cmx-capstone-rest
+	url = https://github.com/morriswa/cmx-capstone-rest.git
